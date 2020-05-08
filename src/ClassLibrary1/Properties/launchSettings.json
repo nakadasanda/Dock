@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ClassLibrary1": {
+      "commandName": "Project"
+    },
+    "Dock.Model": {
+      "commandName": "Project"
+    }
+  }
+}

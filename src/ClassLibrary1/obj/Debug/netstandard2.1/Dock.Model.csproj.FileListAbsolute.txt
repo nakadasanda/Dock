@@ -1,0 +1,9 @@
+C:\Users\tosi\source\repos\Dock\src\ClassLibrary1\bin\Debug\netstandard2.1\Dock.Model.deps.json
+C:\Users\tosi\source\repos\Dock\src\ClassLibrary1\bin\Debug\netstandard2.1\Dock.Model.dll
+C:\Users\tosi\source\repos\Dock\src\ClassLibrary1\bin\Debug\netstandard2.1\Dock.Model.pdb
+C:\Users\tosi\source\repos\Dock\src\ClassLibrary1\obj\Debug\netstandard2.1\Dock.Model.csprojAssemblyReference.cache
+C:\Users\tosi\source\repos\Dock\src\ClassLibrary1\obj\Debug\netstandard2.1\Dock.Model.csproj.CoreCompileInputs.cache
+C:\Users\tosi\source\repos\Dock\src\ClassLibrary1\obj\Debug\netstandard2.1\Dock.Model.AssemblyInfoInputs.cache
+C:\Users\tosi\source\repos\Dock\src\ClassLibrary1\obj\Debug\netstandard2.1\Dock.Model.AssemblyInfo.cs
+C:\Users\tosi\source\repos\Dock\src\ClassLibrary1\obj\Debug\netstandard2.1\Dock.Model.dll
+C:\Users\tosi\source\repos\Dock\src\ClassLibrary1\obj\Debug\netstandard2.1\Dock.Model.pdb

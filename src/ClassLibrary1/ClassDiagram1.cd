@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Dock.Model.Adapter.HostAdapter" BaseTypeListCollapsed="true">
+    <Position X="22.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAgAAABAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Adapter\HostAdapter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dock.Model.Adapter.EnumerabelExtensions" Collapsed="true">
+    <Position X="24" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Adapter\NavigateAdapter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dock.Model.Adapter.NavigateAdapter" BaseTypeListCollapsed="true">
+    <Position X="26" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAIAAABAAACAACARAACAQAEBAEAAAgQAECBAAA=</HashCode>
+      <FileName>Adapter\NavigateAdapter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dock.Model.CloneHelper" Collapsed="true">
+    <Position X="20.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>CloneHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dock.Model.DockManager" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="22.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQIQAABAAAAAAAgAQAAEAIAAAAAMAAAAAAAAgARAAM=</HashCode>
+      <FileName>DockManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dock.Model.FactoryBase" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="20.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAgAgwAEABCOAAAAEIAMFCCAgisAEBgIACAQAmAAAgA=</HashCode>
+      <FileName>FactoryBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Object">
+    <Position X="26.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Struct Name="Dock.Model.DockPoint" Collapsed="true">
+    <Position X="20.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>Core\DockPoint.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="Dock.Model.Controls.IDocument" Collapsed="true">
+    <Position X="11.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controls\IDocument.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Dock.Model.Controls.IDocumentDock" Collapsed="true">
+    <Position X="13.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controls\IDocumentDock.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Dock.Model.Controls.IPinDock" Collapsed="true">
+    <Position X="18.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Controls\IPinDock.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Dock.Model.Controls.IProportionalDock" Collapsed="true">
+    <Position X="4.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controls\IProportionalDock.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Dock.Model.Controls.IRootDock" Collapsed="true">
+    <Position X="7" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAQAAAAAAAMAAAACBCACAAAAAA=</HashCode>
+      <FileName>Controls\IRootDock.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Dock.Model.Controls.ISplitterDock" Collapsed="true">
+    <Position X="9.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controls\ISplitterDock.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Dock.Model.Controls.ITool" Collapsed="true">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controls\ITool.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Dock.Model.Controls.IToolDock" Collapsed="true">
+    <Position X="16" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controls\IToolDock.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Dock.Model.IDock" Collapsed="true">
+    <Position X="11.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAEBgARAAAAAAAEUEACAAQAACBAAA=</HashCode>
+      <FileName>Core\IDock.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Dock.Model.IDockable" Collapsed="true">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAACAAgAAAEAAoAAAAAAAAAAAAAAAAAIAAAAAABA=</HashCode>
+      <FileName>Core\IDockable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Dock.Model.IDockManager" Collapsed="true">
+    <Position X="20.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAgAAAAAAIAAAAAIAAAAAAAAgAAAAI=</HashCode>
+      <FileName>Core\IDockManager.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Dock.Model.IDockWindow" Collapsed="true">
+    <Position X="22.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAICABAAAAFAAIAAAAEAAAIAACAAIIAAAAAAAYBA=</HashCode>
+      <FileName>Core\IDockWindow.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Dock.Model.IFactory" Collapsed="true">
+    <Position X="24.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAgAAwAEABCKAAAAEIAMFCCAgisAEAgIACAQAmAAAgA=</HashCode>
+      <FileName>Core\IFactory.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Dock.Model.IHostAdapter" Collapsed="true">
+    <Position X="20.5" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAABAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Core\IHostAdapter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Dock.Model.IHostWindow" Collapsed="true">
+    <Position X="22.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEACAAABiAAAAAAAAAAACAAgAIIAAACACAAAA=</HashCode>
+      <FileName>Core\IHostWindow.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Dock.Model.INavigationAdapter" Collapsed="true">
+    <Position X="24.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAARAAAAAAEAAEAAAAQAACBAAA=</HashCode>
+      <FileName>Core\INavigationAdapter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Dock.Model.Alignment" Collapsed="true">
+    <Position X="20.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAQAAAAAAAIAAAACACAAAAAAAA=</HashCode>
+      <FileName>Core\Alignment.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Dock.Model.DockOperation" Collapsed="true">
+    <Position X="22.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAICAAACACACAAAAAA=</HashCode>
+      <FileName>Core\DockOperation.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Dock.Model.DragAction" Collapsed="true">
+    <Position X="24.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAgAAAAAAAAAAQAEAAAA=</HashCode>
+      <FileName>Core\DragAction.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Dock.Model.Orientation" Collapsed="true">
+    <Position X="20.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Orientation.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Yu Gothic UI" Size="9" />
+</ClassDiagram>

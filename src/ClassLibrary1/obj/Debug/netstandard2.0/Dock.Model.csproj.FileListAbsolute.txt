@@ -1,0 +1,4 @@
+C:\Users\tosi\source\repos\Dock\src\ClassLibrary1\obj\Debug\netstandard2.0\Dock.Model.csprojAssemblyReference.cache
+C:\Users\tosi\source\repos\Dock\src\ClassLibrary1\obj\Debug\netstandard2.0\Dock.Model.csproj.CoreCompileInputs.cache
+C:\Users\tosi\source\repos\Dock\src\ClassLibrary1\obj\Debug\netstandard2.0\Dock.Model.AssemblyInfoInputs.cache
+C:\Users\tosi\source\repos\Dock\src\ClassLibrary1\obj\Debug\netstandard2.0\Dock.Model.AssemblyInfo.cs
